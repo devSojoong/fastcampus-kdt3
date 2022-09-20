@@ -6,7 +6,7 @@ public class Main {
         여러 줄 주석
          */
 
-        // 한 줄 주성
+        // 한 줄 주석
         //ex) Hello Java World 출력, 윤소중, 2022-09-19
 
         //문장 끝에는 세미콜론 작성
